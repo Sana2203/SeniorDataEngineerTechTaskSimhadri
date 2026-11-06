@@ -1,0 +1,3 @@
+# List all dependencies
+google-cloud-bigquery==x.x.x
+requests==x.x.x
