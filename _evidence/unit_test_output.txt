@@ -1,0 +1,29 @@
+﻿python : test_extract_data (test_etl_pipeline.TestETLPipeline.test_extract_data) ... ok
+At line:1 char:1
++ python -m unittest discover -s test -v 2>&1 | Out-File .\_evidence\un ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (test_extract_da...ct_data) ... ok:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+test_load_data (test_etl_pipeline.TestETLPipeline.test_load_data) ... ok
+test_transform_data (test_etl_pipeline.TestETLPipeline.test_transform_data) ... ok
+test_user_json_transformation (test_etl_pipeline.TestETLPipeline.test_user_json_transformation) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.024s
+
+OK
+Extracting data from API...
+Extracted 2 posts
+Extracted 1 users
+Transforming data...
+Transformed 2 posts
+Transformed 1 users
+Loading data into SQLite: C:\Users\lenovo\AppData\Local\Temp\tmpan0fr6te\test_blog.db
+Data loaded successfully!
+Transforming data...
+Transformed 2 posts
+Transformed 1 users
+Transforming data...
+Transformed 2 posts
+Transformed 1 users

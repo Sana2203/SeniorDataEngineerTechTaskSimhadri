@@ -1,0 +1,6 @@
+﻿
+Query 1 Result: [(2, 'Ervin Howell', 225), (7, 'Kurtis Weissnat', 218), (10, 'Clementina DuBuque', 215), (4, 'Patricia Lebsack', 212), (1, 'Leanne Graham', 206)]
+
+Query 2 Result: [(4, 'Patricia Lebsack', 217.4), (2, 'Ervin Howell', 202.9), (7, 'Kurtis Weissnat', 200.9), (1, 'Leanne Graham', 198.3), (10, 'Clementina DuBuque', 190.1)]
+
+Query 3 Result: [('Wednesday', 12)]

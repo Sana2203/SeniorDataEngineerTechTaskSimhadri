@@ -1,0 +1,13 @@
+﻿
+========== ETL JOB STARTED ==========
+
+Extracting data from API...
+Extracted 100 posts
+Extracted 10 users
+Transforming data...
+Transformed 100 posts
+Transformed 10 users
+Loading data into SQLite: C:\Users\lenovo\Downloads\SeniorDataEngineerTechTaskSimhadri\sps_blog.db
+Data loaded successfully!
+
+========== ETL JOB FINISHED ==========
